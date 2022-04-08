@@ -1,0 +1,6 @@
+ma.c:11:6:delay	16	static
+ma.c:49:6:my_delay	24	static
+ma.c:54:6:GPIO_SPI_Init	24	static
+ma.c:78:6:SPI1_Init	40	static
+ma.c:95:6:GPIO_Button_and_Led	32	static
+ma.c:118:5:main	48	static
